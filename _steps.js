@@ -19,5 +19,14 @@ SETUP THE PROVIDER
 12. create a button for google sing in method with a click handler.
 13. inside the event handler, call signInWithPopup with auth, provider.
 14. after singInWithPopup .then result, error
+.....................................
+ DISPLAY DATA 
+..................................... 
 
+.................................... 
+ ADD A NEW SIGN IN METHOD 
+....................................
+1. Enable the sign in method
+2. Create github , twitter, fb, ete app create 
+3. get client id and secret 
 */
